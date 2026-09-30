@@ -1,0 +1,6 @@
+اتصال Supabase این نسخه آماده شده است.
+Project URL: https://setxgyaikyapyuvrdclf.supabase.co
+Publishable Key: از مقدار موجود در .env.example استفاده شده است.
+
+نکته: برای اتصال دیتابیس، فایل supabase/schema.sql و سپس supabase/seed.sql را در SQL Editor پروژه اجرا کنید.
+برای انتشار روی Vercel همین دو Environment Variable را در Project Settings > Environment Variables قرار دهید.

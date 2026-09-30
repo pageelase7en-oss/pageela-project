@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111"/><stop offset="1" stop-color="#050505"/></linearGradient><linearGradient id="cloth" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#303030"/><stop offset=".5" stop-color="#080808"/><stop offset="1" stop-color="#1d1d1d"/></linearGradient></defs>
+<rect width="900" height="900" rx="42" fill="url(#bg)"/><ellipse cx="450" cy="790" rx="280" ry="28" fill="#000" opacity=".65"/>
+<path d="M280 225 L360 165 Q450 205 540 165 L620 225 740 330 635 445 585 375 585 650 Q450 710 315 650 L315 375 265 445 160 330Z" fill="url(#cloth)" stroke="#555" stroke-width="5"/>
+<path d="M350 177 Q450 215 550 177" fill="none" stroke="#111" stroke-width="16"/>
+<path d="M314 365 L270 520" stroke="#111" stroke-width="12"/><path d="M586 365 L630 520" stroke="#111" stroke-width="12"/>
+<path d="M315 500 L245 610 Q230 630 245 650 L285 675 325 610" fill="#121212" stroke="#555" stroke-width="4"/><path d="M585 500 L655 610 Q670 630 655 650 L615 675 575 610" fill="#121212" stroke="#555" stroke-width="4"/>
+<text x="450" y="355" fill="#eee" text-anchor="middle" font-family="Arial" font-size="34" font-weight="800" letter-spacing="8">NIKE</text><path d="M392 380 Q455 410 520 380 Q455 430 392 380Z" fill="#eee"/>
+<text x="450" y="790" fill="#aaa" text-anchor="middle" font-family="Arial" font-size="18" letter-spacing="5">FINGER SLEEVE · BLACK</text>
+</svg>

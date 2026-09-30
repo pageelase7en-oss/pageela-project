@@ -1,0 +1,10 @@
+1) Supabase Project URL را در lib/project-config.ts بگذار یا در Vercel به عنوان NEXT_PUBLIC_SUPABASE_URL تنظیم کن.
+2) supabase/schema.sql را اجرا کن.
+3) supabase/seed.sql را اجرا کن.
+4) npm install
+5) npm run dev
+6) ثبت‌نام را تست کن.
+7) /tasks را تست کن.
+8) /store و /cart را تست کن.
+9) /preorders را تست کن.
+10) بعد روی Vercel Deploy کن.
